@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rupantor</string>
+    <string name="source_language">Source_language</string>
+    <string name="target_language">Target_language</string>
+    <string name="not_found">Not Found</string>
+    <string name="text_translate">Home</string>
+    <string name="text_favourites">Favourites</string>
+    <string name="text_history">History</string>
+    <string name="delete_confirmation_of_favourite_words">delete_favourite</string>
+    <string name="delete_confirmation_of_history_words">Delete_history</string>
+    <string name="history_search_hint">History_search_hint</string>
+    <string name="favourite_search_hint">Favourite_search_hint</string>
+    <string name="no_words_in_favourites">No Words In Favourites</string>
+    <string name="no_words_in_history">No Word In History</string>
+    <string name="write_word">Put the text here</string>
+    <string name="api_info"></string>
+    <string name="link"></string>
+</resources>
